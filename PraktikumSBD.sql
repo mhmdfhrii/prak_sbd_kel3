@@ -1,0 +1,1 @@
+ALTER TABLE mahasiswa ADD deleted NUMBER(1) DEFAULT 0;
